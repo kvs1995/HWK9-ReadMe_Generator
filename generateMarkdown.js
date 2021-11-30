@@ -67,8 +67,18 @@ function renderTableofContents(license){
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `# ${data.title} ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
 
+          ${data.description} 
+
+          # Table of Contents
+          * [Installation](#installation)
+          * [Usage](#usage)
+          * [License](#license)
+          * [Contributing](#contributing)
+          * [Tests](#tests)
+          * [Questions](#questions)
+          ${renderTableofContents(data.license)}
 `;
 }
 
