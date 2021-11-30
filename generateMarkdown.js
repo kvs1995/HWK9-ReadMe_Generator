@@ -87,6 +87,7 @@ function generateMarkdown(data) {
   ${data.usageInfo}
   
   Take a look at this short video for a walkthrough on how to use the application:
+  ![video](./assets/walkthrough.mp4)
 
   ## Contribution Guidelines
   ${data.contributionGuidelines}

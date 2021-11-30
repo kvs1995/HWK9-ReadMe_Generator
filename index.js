@@ -69,7 +69,7 @@ function init() {
 //initiliaze the question prompts above and pass the data provided to write To File
     inquirer.prompt(questions)
     .then((data) => {
-        writeToFile('ReadMe',data)
+        writeToFile('README',data)
     })
 }
 
