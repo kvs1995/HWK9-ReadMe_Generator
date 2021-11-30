@@ -48,8 +48,8 @@ function renderLicenseSection(license) {
       return ``;
     default:
       return `# License
-              ## ${license}
-              This project is licensed under the ${renderLicenseLink(license)}.` 
+      ## ${license}
+      This project is licensed under the ${renderLicenseLink(license)}.` 
   }
 }
 //need one for Table of Contents as well or else it will still appear in the main table of contents. 
