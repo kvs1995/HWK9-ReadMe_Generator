@@ -47,8 +47,7 @@ function renderLicenseSection(license) {
     case 'No License':
       return ``;
     default:
-      return `# License
-      ## ${license}
+      return `## License: ${license}
       This project is licensed under the ${renderLicenseLink(license)}.` 
   }
 }

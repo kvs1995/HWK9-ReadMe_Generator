@@ -18,7 +18,7 @@
   Easy peasy lemon Readme
   
   Take a look at this short video for a walkthrough on how to use the application:
-  
+
   ![video](./assets/walkthrough.gif)
 
   ## Contribution Guidelines
@@ -34,6 +34,5 @@
   * Email: nunya
 
 
-  #License
-              ##MIT
-              This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+  ## License: MIT
+  This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
