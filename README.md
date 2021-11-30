@@ -1,40 +1,35 @@
-# One Ring 
-  
-  [![MIT License](<https://img.shields.io/badge/License-MIT-green.svg>)](https://opensource.org/licenses/MIT)
+# lfuy 
 
-  To Rule Them All 
+  kuvt 
 
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
   * [Contribution Guidelines](#contribution-guidelines)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [License](#license)
+  
 
   ---
   ## Installations
-  One Ring
+  lvjg
 
   ## Usage
-  To Find Them
+  luv
   
   Take a look at this short video for a walkthrough on how to use the application:
-  [
 
   ## Contribution Guidelines
-  One Ring
+  gyu
 
   ## Tests
-  To Bring Them All
+  giy
 
   ## Questions
   
   If you have any questions or would like to contact me regarding aspects of this project, I can be reached at:
-  * GitHub: And In the Darkness
-  * Email: undefined
+  * GitHub: goyi
+  * Email: kb
 
 
-  ## License
-  MIT
+  

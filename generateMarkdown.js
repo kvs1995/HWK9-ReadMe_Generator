@@ -74,7 +74,6 @@ function generateMarkdown(data) {
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
   * [Contribution Guidelines](#contribution-guidelines)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -102,8 +101,7 @@ function generateMarkdown(data) {
   * Email: ${data.emailAddress}
 
 
-  ## License
-  ${data.license}
+  ${renderLicenseSection(data.license)}
 `;
 }
 
