@@ -47,8 +47,8 @@ function renderLicenseSection(license) {
     case 'No License':
       return ``;
     default:
-      return `#License
-              ##${license}
+      return `# License
+              ## ${license}
               This project is licensed under the ${renderLicenseLink(license)}.` 
   }
 }
@@ -87,7 +87,7 @@ function generateMarkdown(data) {
   ${data.usageInfo}
   
   Take a look at this short video for a walkthrough on how to use the application:
-  
+
   ![video](./assets/walkthrough.gif)
 
   ## Contribution Guidelines
