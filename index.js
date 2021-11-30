@@ -36,7 +36,12 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        message: 'Does this project have a license?'
+        message: 'Does this project have a license?',
+        choices: ['MIT',
+                'GPLv3',
+                'Apache 2.0',
+                'Mozilla Public License 2.0',
+                'No License']
     },
     {
         type: 'input',
