@@ -1,6 +1,6 @@
 # ReadMe Generator [![MIT License](<https://img.shields.io/badge/License-MIT-green.svg>)](https://opensource.org/licenses/MIT)
 
-  An application that quickly creates a ReadMe for your next upcoming project.  
+  A quick and simple way to generate a Readme for your next project 
 
   # Table of Contents
   * [Installation](#installation)
@@ -12,19 +12,20 @@
 
   ---
   ## Installations
-  In order to run this program, simply type 'node index.js' in your terminal
+  Just type 'node index.js' in your terminal!
 
   ## Usage
-  Easy peasy ReadME
+  Easy peasy lemon Readme
   
   Take a look at this short video for a walkthrough on how to use the application:
-  ![video](./assets/walkthrough.mp4)
+  
+  ![video](./assets/walkthrough.gif)
 
   ## Contribution Guidelines
-  No guidelines. 
+  No guidelines
 
   ## Tests
-  No tests.
+  No tests!
 
   ## Questions
   
